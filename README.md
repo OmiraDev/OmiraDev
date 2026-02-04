@@ -5,8 +5,8 @@ I am a passionate software developer focused on building scalable backend soluti
 
 - 🛠️ Currently working on: **WasteWise** (Waste Management System) & **Vehicle Hub**
 - 🌱 Deep diving into: **Spring Security** & Software Development Practices
-- 🎓 Studying: Java, SQL Server (SSMS), and IoT Security
-- 🎨 Interests: Home & Workspace Interior Design
+- 🎓 Studying: Java, SQL Server (SSMS), and IoT
+
 
 ---
 
