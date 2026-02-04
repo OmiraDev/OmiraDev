@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi there, I'm Omira Vimesh 👋
 
-<!--
-**OmiraDev/OmiraDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Java & Spring Boot Developer | IoT Enthusiast
+I am a passionate software developer focused on building scalable backend solutions and exploring the intersection of IoT, security, and smart design.
 
-Here are some ideas to get you started:
+- 🛠️ Currently working on: **WasteWise** (Waste Management System) & **Vehicle Hub**
+- 🌱 Deep diving into: **Spring Security** & Software Development Practices
+- 🎓 Studying: Java, SQL Server (SSMS), and IoT Security
+- 🎨 Interests: Home & Workspace Interior Design
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🧰 Tech Stack
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
+### 📊 GitHub Stats
+![Omira's GitHub stats](https://github-readme-stats.vercel.app/api?username=OmiraDev&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OmiraDev&layout=compact&theme=radical)
+
+---
+
+### 📫 Connect with me:
+[LinkedIn](https://www.linkedin.com/in/YOUR-LINK-HERE) | [Email](mailto:your-email@example.com)
