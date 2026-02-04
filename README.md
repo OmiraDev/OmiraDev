@@ -20,8 +20,8 @@ I am a passionate software developer focused on building scalable backend soluti
 ---
 
 ### 📊 GitHub Stats
-![Omira's GitHub stats](https://github-readme-stats.vercel.app/api?username=OmiraDev&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OmiraDev&layout=compact&theme=radical)
+![Omira's GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=OmiraDev&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=OmiraDev&layout=compact&theme=radical)
 
 ---
 
