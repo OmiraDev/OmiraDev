@@ -1,11 +1,11 @@
 # Hi there, I'm Omira Vimesh 👋
 
-### 🚀 Java & Spring Boot Developer | IoT Enthusiast
+### 🚀 Software Engineer(Undergraduate) | IoT Enthusiast
 I am a passionate software developer focused on building scalable backend solutions and exploring the intersection of IoT, security, and smart design.
 
-- 🛠️ Currently working on: **WasteWise** (Waste Management System) & **Vehicle Hub**
 - 🌱 Deep diving into: **Spring Security** & Software Development Practices
 - 🎓 Studying: Python, HTML, Css, Java Script, Java, SQL Server (SSMS), Flutter(Dart) and IOT
+- 📱 Flutter(Dart) 
 
 
 ---
